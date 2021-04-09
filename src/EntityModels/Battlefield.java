@@ -7,6 +7,8 @@ public class Battlefield {
 
 
     private List<Battlefield> nexts,previous;
+    private BattlefieldState state;
+
 
     private List<Duel> duels;
     private List<Bot> armies;
@@ -15,6 +17,8 @@ public class Battlefield {
 
         duels = new ArrayList<Duel>();
         armies = new ArrayList<>();
+        state = BattlefieldState.NEUTRAL;
+
     }
 
     public boolean addSoldier(Bot soldier){

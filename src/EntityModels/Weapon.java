@@ -15,4 +15,5 @@ public class Weapon {
         this.rarity = rarity;
         this.weaponName = weaponName;
     }
+
 }
