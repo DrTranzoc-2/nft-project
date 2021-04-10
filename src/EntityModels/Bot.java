@@ -1,5 +1,7 @@
 package EntityModels;
 
+import EntityModels.EWeapon.Model.Weapon;
+
 public class Bot {
 
     private String botID;
