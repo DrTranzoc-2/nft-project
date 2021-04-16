@@ -1,4 +1,4 @@
-package EntityModels;
+package EntityModels.EBot.Enum;
 
 public enum BotStatTypes {
 

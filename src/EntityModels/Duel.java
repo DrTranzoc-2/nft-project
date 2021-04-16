@@ -1,5 +1,7 @@
 package EntityModels;
 
+import EntityModels.EBot.Model.Bot;
+
 import java.util.ArrayList;
 import java.util.List;
 

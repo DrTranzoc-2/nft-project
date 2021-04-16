@@ -1,4 +1,6 @@
-package EntityModels;
+package EntityModels.EBot.Model;
+
+import EntityModels.EBot.Enum.BotStatTypes;
 
 import java.util.HashMap;
 

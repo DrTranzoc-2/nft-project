@@ -1,6 +1,9 @@
 package EntityControllers;
 
 import EntityModels.*;
+import EntityModels.EBot.Model.Bot;
+import EntityModels.EBot.Enum.BotStatTypes;
+import EntityModels.EBot.Model.BotStats;
 import EntityModels.EWeapon.Enum.MeleeModifiers;
 import EntityModels.EWeapon.Enum.RangedModifiers;
 import EntityModels.EWeapon.Model.*;
